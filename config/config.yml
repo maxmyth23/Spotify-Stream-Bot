@@ -1,0 +1,12 @@
+song_link: [""]
+min_wait_max_wait: [150, 200]
+program_sleep_delay: 5
+retry_bad_procces: false
+create_account: true
+client_thread: 1
+view_count: 10
+use_proxy: true
+use_discord_webhook: true
+discord_webhook_url: "https://discord.com/api/webhooks/986223836720664576/JMysXK2CiMkMPhlOfIw_0ATaKM4RL5PxH22ZP0GsByo_mUH0AKzwPN_LFyNJJ38oIWPV"
+proxy_protocol: "http"
+program_license: "wxGvhTsjIucdkgEkzkIaPYpGADACBahSRaCDycdXYDJDpEDoMy"
